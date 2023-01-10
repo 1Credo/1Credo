@@ -3,7 +3,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 # 🌀Installation :
 
-git clone https://github.com/SOHIL-MS-CREDO
+git clone https://github.com/SOHIL-MS-CREDO/CREDO-2.0.00.git
 
 cd CREDO-2.0.00
 
