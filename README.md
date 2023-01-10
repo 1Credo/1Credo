@@ -11,4 +11,16 @@ pip3 install requests
 
 pip3 install geocoder
 
-python3 CREDO.2.000.py 
+python3 credo.2.000.py 
+
+# 🕯️Feature :
+
+FAST AND EASY
+
+Get Full info OF IP
+
+Get Location from IP
+
+fully Support
+
+Good Design
