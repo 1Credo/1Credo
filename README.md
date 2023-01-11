@@ -11,7 +11,7 @@ pip3 install requests
 
 pip3 install geocoder
 
-python3 credo.2.000.py 
+python3 credo2.000.py 
 
 # 🕯️Feature :
 
