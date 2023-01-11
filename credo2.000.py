@@ -29,13 +29,13 @@ banner = f"""
 """
     
 help = f"""
-    {red}Usage {ylw}: {grn}python IPLocation.py [OPTION] ...
+    {red}Usage {ylw}: {grn}python credo2.000.py [OPTION] ...
     {ylw}To get IP information
     Mandatory arguments to long options are mandatory for short options too
         {red}-h {ylw}, {red}--help         {grn}display this help and exit
         {red}-I {ylw}, {red}--ip           {grn}To get IP information
     {ylw}Use help 
-        {grn}python {red}credo.2.000.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
+        {grn}python {red}credo2.000.py {ylw}--ip{red}/{ylw}-I {red}[{grn}IP ADDRESS{red}]
 """
 def Location(IP):
     
